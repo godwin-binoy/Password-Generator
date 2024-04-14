@@ -11,3 +11,5 @@ This a command line based python program which can generate passwords in given l
 
 
 The python program will display the password. You can close this file by typing 'exit'.
+
+Author: https://github.com/Godwin-Binoy 
